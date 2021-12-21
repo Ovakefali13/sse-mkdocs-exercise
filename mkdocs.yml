@@ -4,6 +4,6 @@ nav:
     - User Guide: 
       - Installation: 'compilation-and-installation.md'
       - Getting Started: 'how-to.md'
+edit_uri: edit/master/docs/
 repo_url: https://github.com/Ovakefali13/sse-mkdocs-exercise.git
 site_author: Ovakefali13
-edit_uri: edit/master/docs/
